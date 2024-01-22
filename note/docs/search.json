@@ -1,0 +1,27 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "note",
+    "section": "",
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+  },
+  {
+    "objectID": "readme/16-kaggle-diabetes-predict.html",
+    "href": "readme/16-kaggle-diabetes-predict.html",
+    "title": "16-kaggle-diabetes-predict",
+    "section": "",
+    "text": "intro\n\n\n\nref :Diabetes - EDA + XGBoost + Optuna and MLflow",
+    "crumbs": [
+      "Home",
+      "16-kaggle-diabetes-predict"
+    ]
+  }
+]

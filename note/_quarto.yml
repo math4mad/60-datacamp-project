@@ -1,0 +1,24 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "60-datacamp-project"
+  navbar:
+    right:
+      - href: index.qmd
+        text: Home
+      - about.qmd
+  sidebar:
+      style: "docked"
+      search: true
+      contents: readme/*.md
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+
+
